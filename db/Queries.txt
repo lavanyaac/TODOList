@@ -1,0 +1,5 @@
+INSERT INTO todo (todo,status,list_order) VALUES ('complete server assignment', 'active', 1);
+
+INSERT INTO todo (todo,status,list_order) VALUES ('complete LRU cache', 'active', 2);
+
+INSERT INTO todo (todo,status,list_order) VALUES ('complete toy problems assignment', 'active', 3);
